@@ -10,4 +10,7 @@ public class JavahacksApplication {
 		SpringApplication.run(JavahacksApplication.class, args);
 	}
 
+	//@Benchmark
+	public void test(){}
+
 }
